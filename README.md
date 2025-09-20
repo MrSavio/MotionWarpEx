@@ -10,5 +10,5 @@ Originally based off my "Combat Using Motion Warping Tutorial" (https://www.yout
 
 
 
-The new and improved tutorial can be found here ( )
+The new and improved tutorial can be found here ( https://www.youtube.com/watch?v=WN7K415Tbdk )
 
